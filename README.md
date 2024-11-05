@@ -9,6 +9,6 @@
     </ul>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://tenor.com/view/music-gif-24483754" alt="Illustration" width="300">
+    <div class="tenor-gif-embed" data-postid="24483754" data-share-method="host" data-aspect-ratio="1.25" data-width="100%"><a href="https://tenor.com/view/music-gif-24483754">Music Sticker</a>from <a href="https://tenor.com/search/music-stickers">Music Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </div>
 </div>
